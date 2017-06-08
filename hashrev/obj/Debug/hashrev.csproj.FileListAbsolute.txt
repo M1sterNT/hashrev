@@ -1,0 +1,9 @@
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\bin\Debug\hashrev.exe.config
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\bin\Debug\hashrev.exe
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\bin\Debug\hashrev.pdb
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.csprojResolveAssemblyReference.cache
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.Form1.resources
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.Properties.Resources.resources
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.csproj.GenerateResource.Cache
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.exe
+c:\users\misternt\documents\visual studio 2017\Projects\hashrev\hashrev\obj\Debug\hashrev.pdb
